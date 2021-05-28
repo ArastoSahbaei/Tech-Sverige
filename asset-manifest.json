@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/svetech/static/css/main.49154a31.chunk.css",
-    "main.js": "/svetech/static/js/main.83c041ea.chunk.js",
-    "main.js.map": "/svetech/static/js/main.83c041ea.chunk.js.map",
+    "main.css": "/svetech/static/css/main.b8466519.chunk.css",
+    "main.js": "/svetech/static/js/main.94131f38.chunk.js",
+    "main.js.map": "/svetech/static/js/main.94131f38.chunk.js.map",
     "runtime-main.js": "/svetech/static/js/runtime-main.5387ad28.js",
     "runtime-main.js.map": "/svetech/static/js/runtime-main.5387ad28.js.map",
     "static/js/2.e11a9c2d.chunk.js": "/svetech/static/js/2.e11a9c2d.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.02242ce2.chunk.js": "/svetech/static/js/3.02242ce2.chunk.js",
     "static/js/3.02242ce2.chunk.js.map": "/svetech/static/js/3.02242ce2.chunk.js.map",
     "index.html": "/svetech/index.html",
-    "static/css/main.49154a31.chunk.css.map": "/svetech/static/css/main.49154a31.chunk.css.map",
+    "static/css/main.b8466519.chunk.css.map": "/svetech/static/css/main.b8466519.chunk.css.map",
     "static/js/2.e11a9c2d.chunk.js.LICENSE.txt": "/svetech/static/js/2.e11a9c2d.chunk.js.LICENSE.txt",
     "static/media/background.42595ed3.jpg": "/svetech/static/media/background.42595ed3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5387ad28.js",
     "static/js/2.e11a9c2d.chunk.js",
-    "static/css/main.49154a31.chunk.css",
-    "static/js/main.83c041ea.chunk.js"
+    "static/css/main.b8466519.chunk.css",
+    "static/js/main.94131f38.chunk.js"
   ]
 }

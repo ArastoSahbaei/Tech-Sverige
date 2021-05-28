@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/svetech/static/css/main.a85ca496.chunk.css",
+    "main.js": "/svetech/static/js/main.c4bf430a.chunk.js",
+    "main.js.map": "/svetech/static/js/main.c4bf430a.chunk.js.map",
+    "runtime-main.js": "/svetech/static/js/runtime-main.083b8b7f.js",
+    "runtime-main.js.map": "/svetech/static/js/runtime-main.083b8b7f.js.map",
+    "static/js/2.e11a9c2d.chunk.js": "/svetech/static/js/2.e11a9c2d.chunk.js",
+    "static/js/2.e11a9c2d.chunk.js.map": "/svetech/static/js/2.e11a9c2d.chunk.js.map",
+    "static/js/3.fb40c652.chunk.js": "/svetech/static/js/3.fb40c652.chunk.js",
+    "static/js/3.fb40c652.chunk.js.map": "/svetech/static/js/3.fb40c652.chunk.js.map",
+    "index.html": "/svetech/index.html",
+    "static/css/main.a85ca496.chunk.css.map": "/svetech/static/css/main.a85ca496.chunk.css.map",
+    "static/js/2.e11a9c2d.chunk.js.LICENSE.txt": "/svetech/static/js/2.e11a9c2d.chunk.js.LICENSE.txt",
+    "static/media/background.42595ed3.jpg": "/svetech/static/media/background.42595ed3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.083b8b7f.js",
+    "static/js/2.e11a9c2d.chunk.js",
+    "static/css/main.a85ca496.chunk.css",
+    "static/js/main.c4bf430a.chunk.js"
+  ]
+}

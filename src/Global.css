@@ -2,7 +2,7 @@ body,
 html {
 	margin: 0;
 	padding: 0;
-	background-color: #f9fffc;
+	background-color: #000000;
 	animation-name: fadeInOpacity;
 	animation-iteration-count: 1;
 	animation-timing-function: ease-in;
@@ -42,6 +42,7 @@ html {
 	grid-row: 1/21;
 	align-self: center;
 	justify-self: center;
+	z-index: 200;
 }
 
 .iFrameDiscord {
@@ -51,15 +52,16 @@ html {
 
 .descriptionWrapper {
 	grid-column: 3/10;
-	grid-row: 1/21;
+	grid-row: 1/19;
 	align-self: center;
 	justify-self: center;
+	z-index: 200 !important;
 }
 
 p {
 	color: #74da72;
 	font-size: 45px;
-	font-weight: 800
+	font-weight: 800;
 }
 
 span {

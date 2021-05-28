@@ -64,8 +64,34 @@ p {
 	font-weight: 800;
 }
 
-span {
+.subParagraph {
 	color: #fff;
 	font-size: 25px;
 	font-weight: 300;
+}
+
+@media only screen and (max-width: 1050px) {
+	.descriptionWrapper {
+		grid-column: 1/21;
+		grid-row: 1/1;
+		align-self: center;
+		justify-self: center;
+		z-index: 200 !important;
+	}
+
+	p {
+		text-align: center;
+	}
+
+	span {
+		text-align: center;
+	}
+
+	.discordWrapper {
+		grid-column: 1/21;
+		grid-row: 2/2;
+		align-self: center;
+		justify-self: center;
+		z-index: 200;
+	}
 }
